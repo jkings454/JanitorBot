@@ -1,2 +1,4 @@
 settings.json
 botenv
+.idea
+__pycache__
